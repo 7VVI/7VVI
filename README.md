@@ -7,7 +7,7 @@
 
 Welcome to my Github page!一个简陋的github页面，简简单单普普通通，努力成为一名技术大牛 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="100%" height="auto" />
 
 - 💬 面向薪资编程
 - 🤔 问题
