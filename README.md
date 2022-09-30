@@ -18,7 +18,7 @@ Welcome to my Github page!一个简陋的github页面，简简单单普普通通
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
-	- React with Redux :electron:
+	- Vue
 	- MonogoDB
   - Express
   - NodeJS  
