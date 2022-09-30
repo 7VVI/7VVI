@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mc1753343931@gmail.com)
 
-Welcome to my Github page!一个简陋的github页面，简简单单普普通通，努力成为一名技术大牛 
+Welcome to my Github page! 一个简陋的github页面，简简单单普普通通，努力成为一名技术大牛! 
 
 
 ## Ask me about :computer: 
