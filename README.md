@@ -9,9 +9,9 @@ Welcome to my Github page!一个简陋的github页面，简简单单普普通通
 
 ## Ask me about :computer: 
 - **Competitive Programming**
-	- Python ❤️
+	- Java ❤️
 	- C++
-	- Some Java
+	- Some Python
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
