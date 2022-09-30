@@ -10,7 +10,6 @@ Welcome to my Github page!一个简陋的github页面，简简单单普普通通
 
 - 💬 面向薪资编程
 - 🤔 问题
-<hr>
 
 #### 代码汇总	
 
