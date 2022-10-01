@@ -7,7 +7,8 @@
 Welcome to my Github page! 一位来自不知名的学的23届本科生，简简单单普普通通，努力成为一名技术大牛! 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Venom-lemon/count.svg" /></a>
 
-## Ask me about :computer: 
+##  𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+ 
 - **Competitive Programming**
 	- Java ❤️
 	- C++
