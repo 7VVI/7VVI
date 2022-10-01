@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mc1753343931@gmail.com)
 
-Welcome to my Github page! 一个简陋的github页面，简简单单普普通通，努力成为一名技术大牛! 
-
+Welcome to my Github page! 一位来自不知名的学的23届本科生，简简单单普普通通，努力成为一名技术大牛! 
+<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Venom-lemon/count.svg" /></a>
 
 ## Ask me about :computer: 
 - **Competitive Programming**
@@ -14,7 +14,8 @@ Welcome to my Github page! 一个简陋的github页面，简简单单普普通�
 	- Some Python
 
 
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Venom-lemon/count.svg" /></a>
+<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
