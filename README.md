@@ -14,7 +14,7 @@ Welcome to my Github page! 一个简陋的github页面，简简单单普普通�
 	- Some Python
 
 
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Chocolate1999/count.svg" /></a>
+<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Venom-lemon/count.svg" /></a>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
