@@ -1,11 +1,9 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/Venom-lemon">李子园</a>!</h1>
-<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Venom-lemon)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mc1753343931@gmail.com)
 
-Welcome to my Github page! 一位来自不知名的学的23届本科生，简简单单普普通通，努力成为一名技术大牛! 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Venom-lemon/count.svg" /></a>
 
 #### 代码汇总	
