@@ -3,8 +3,8 @@
 
 ## 关于我
 
-- 23年毕业与普通高校，混迹与互联网行业
-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Trinity1945) 代码技巧分享
+- 23年毕业于普通高校，混迹与互联网行业，努力成为一名攻城狮
+- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Trinity1945) 分享自己一些简单的代码仓库
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mc1753343931@gmail.com) 联系我
 
 #### 代码汇总	
