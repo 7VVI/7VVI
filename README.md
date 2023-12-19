@@ -1,6 +1,6 @@
 <h1 align="center">大家好，我是 <a href="https://github.com/Venom-lemon">李子园</a>!</h1>
 <h2 align="center">关于我</h2>
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Venom-lemon/count.svg" /></a>
+
 - 多久啊是的
 - [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Trinity1945) Github
 - linkedin [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
