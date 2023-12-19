@@ -2,6 +2,7 @@
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Venom-lemon/count.svg" /></a>
 <h2 align="center">关于我</h2>
 
+- 23年毕业与普通高校，混迹与互联网行业
 - [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Trinity1945) 代码技巧分享
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mc1753343931@gmail.com) 联系我
 
