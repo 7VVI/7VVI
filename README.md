@@ -5,11 +5,11 @@
 
 ## About
 
-- Learning : Full-Stack Development :zap: | Open-Source :fire: 
-- Languages  :Java, Spring, Spring Boot, Mysql, Web 全栈
-- Hobbies :Music :headphones:
-- Reo:[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/7VVI) Share some simple code warehouses
-- Cancat:[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mc1753343931@gmail.com) 
+- Learning :  Full-Stack Development :zap: | Open-Source :fire: 
+- Languages  : Java, Spring, Spring Boot, Mysql, Web 全栈
+- Hobbies : Music :headphones:
+- Reo: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/7VVI) Share some simple code warehouses
+- Cancat: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mc1753343931@gmail.com) 
 
 #### 代码汇总	
 
