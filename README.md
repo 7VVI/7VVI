@@ -1,5 +1,5 @@
 <h1 align="center">大家好，我是 <a href="https://github.com/Venom-lemon">程序员7VI</a>!</h1>
-👋 Hi, 我是7VI呀, 一枚 Java 后端程序员，混迹于互联网行业，努力成为一名攻城狮。
+👋 Hi, 我是程序员7VI, 一枚 Java 后端程序员，混迹于互联网行业，努力成为一名全栈攻城狮。
 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Venom-lemon/count.svg" /></a>
 
